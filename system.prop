@@ -16,6 +16,9 @@ dalvik.vm.dex2oat64.enabled=true
 # Display
 debug.sf.enable_hwc_vds=1
 
+# DroidX-UI
+ro.droidx.maintainer= Ꮛɳѵoყ-Z
+
 # fastbootd
 ro.fastbootd.available=true
 
